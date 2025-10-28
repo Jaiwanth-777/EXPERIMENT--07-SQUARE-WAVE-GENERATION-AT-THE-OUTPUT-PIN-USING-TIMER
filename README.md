@@ -221,7 +221,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![WhatsApp Image 2025-10-24 at 09 05 59_6bd7e8d9](https://github.com/user-attachments/assets/9140e9a4-fe91-4000-b6fc-fded1daf0d7d)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="1509" height="1068" alt="Screenshot 2025-10-28 094352-overlay" src="https://github.com/user-attachments/assets/f0d3b203-754e-4b30-a23c-da57701fc76f" />
+<img width="1509" height="1068" alt="Screenshot 2025-10-28 094352" src="https://github.com/user-attachments/assets/033e5aee-8ba2-4056-80ff-7e1a6f182985" />
+
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
